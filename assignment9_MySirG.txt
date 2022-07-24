@@ -275,7 +275,7 @@ int main()
         case 1:
             printf("%d is leap year\n",year);
             break;
-        case 2:
+        case 0:
             printf("%d is not leap year\n",year);
             break;
     }
